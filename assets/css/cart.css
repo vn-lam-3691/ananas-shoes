@@ -1,0 +1,7 @@
+.container {
+    margin-top: var(--header-height);
+}
+
+.product-info__heading {
+    margin-top: 32px;
+}
